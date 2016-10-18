@@ -1,1 +1,5 @@
 content
+
+modificat per Josep Nacher
+Practica git Sistemes
+
